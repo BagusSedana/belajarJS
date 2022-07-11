@@ -1,3 +1,4 @@
 var x = 10;
 
-let a = "Apple";
+
+(x % 2 == 0) ? "genap" : "ganjil";
